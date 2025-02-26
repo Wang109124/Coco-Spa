@@ -1,0 +1,7 @@
+Services:	Express Package	SV005
+	$0(package)
+Packages:	Express Package (20)	PK002	$1200
+Product:	Eye cream	P002	$90
+Total                   $1270(Discount20)
+Customer's name:Tan Ah mee
+-------------------------

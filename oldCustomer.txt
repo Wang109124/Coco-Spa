@@ -1,0 +1,5 @@
+1,Tan Ah mee,PK001,Express Package,3,SV005
+2,John Tan,PK005,Laser Face treatment,3,SV004
+3,Kristan Goh,PK003,Face Cleansing,1,SV002
+4,Jamie lin,PK004,Deep Face Cleansing,6,SV003
+5,Linda Tan,PK001,Express Package,5,SV001
